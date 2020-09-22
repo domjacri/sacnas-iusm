@@ -44,7 +44,7 @@ What we study:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:SACNASatIUSM@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-SACNAS @ IUSM/IUPUI is a student-run chapter of the Society for the Advancement of Chicanos and Native Americans in Science. Comprised of PhD students from IUSM and undergraduates from IUPUI, our group ...
+SACNAS @ IUSM/IUPUI is a student-run chapter of the Society for the Advancement of Chicanos and Native Americans in Science. Currently our group is comprised of PhD students from IUSM and undergraduates from IUPUI. If you are interested in getting involved, contact us at SACNASatIUSM@gmail.com.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Our chapter is highly interested in outreach activities that can positively impact and attract diverse students into STEM fields. Recently, we developed several Q&A panels as an intent to address questions about different aspects of the application process to students applying to the IUSM Indiana Biomedical Gateway Program (IBMG). Beyond answering questions, we also plan to go the extra mile and provide feedback to applicants on their Candidate Statement and CV, which would make their applications more competitive. We plan to share publicly available resources and set up short talks to introduce different aspects of the grad school life and interview process, so they would know what to expect. In addition to assisting prospective students, we also plan to attend national conferences to boost our networking skills and learn about different career paths in STEM fields. The latter will help us tailor our graduate studies and experiences towards specific careers such as teaching, industry, research, or even entrepreneurship opportunities in our fields. Lastly, we also count with a large faculty and graduate division staff committed to the success of students and who can provide us with materials and resources to acquire and improve leadership skills.
