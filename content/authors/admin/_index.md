@@ -42,9 +42,9 @@ What we study:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:SACNASatIUSM@gmail.com".
+#- icon: envelope
+#  icon_pack: fas
+#  link: "mailto:SACNASatIUSM@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
