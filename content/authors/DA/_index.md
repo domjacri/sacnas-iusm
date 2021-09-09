@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include neurodegeneration, genetics, and DEI programming.
 
-#interests:
+interests:
 - Neurodegeneration
 - QTL Mapping
 - "[Recent pre-print](https://europepmc.org/article/PPR/PPR279712)"
