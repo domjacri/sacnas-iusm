@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SACNAS @ IUSM
+title: Coming Soon!
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: B.S. in Lorem Ipsum
 
 # Organizations/Affiliations
 organizations:
@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Professional Development
-- K12 Educational Outreach
-- Science Communication
+#interests:
+#- Professional Development
+#- K12 Educational Outreach
+#- Science Communication
 
 What we study:
   courses:
@@ -66,8 +66,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Undergraduate Members
+-
 ---
 
 SACNAS @ IUSM/IUPUI is a student-run chapter of the Society for the Advancement of Chicanos and Native Americans in Science. Currently our group is comprised of PhD students from IUSM and undergraduates from IUPUI. If you are interested in getting involved, contact us at SACNASatIUSM@gmail.com.
