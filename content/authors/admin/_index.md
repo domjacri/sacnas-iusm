@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Coming Soon!
+title: Promoting Diversity in STEM
 
 # Username (this should match the folder name)
 authors:
@@ -10,44 +10,44 @@ authors:
 superuser: true
 
 # Role/position
-role: B.S. in Lorem Ipsum
+role: Bringing SACNAS to Indy since 2015!
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 #interests:
 #- Professional Development
 #- K12 Educational Outreach
 #- Science Communication
 
-What we study:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#What we study:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:SACNASatIUSM@gmail.com".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -61,13 +61,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+#email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Undergraduate Members
--
+#user_groups:
+#- Undergraduate Members
+#-
 ---
 
 SACNAS @ IUSM/IUPUI is a student-run chapter of the Society for the Advancement of Chicanos and Native Americans in Science. Currently our group is comprised of PhD students from IUSM and undergraduates from IUPUI. If you are interested in getting involved, contact us at SACNASatIUSM@gmail.com.

@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- eBoard
+- President
 ---
 
 Vik Meadows is a PhD candidate in the laboratory of Dr. Heather Francis, part of the Indiana Center for Liver Research at the Indiana University School of Medicine and Richard L. Roudebush VA Medical Center. Vik’s research aims to understand the interactions between mast cells and cholangiocytes (the epithelial cells of the bile ducts) during the development and progression of cholestatic liver diseases (i.e. Primary Sclerosing Cholangitis). Her current project topics include: mast cell regulation of bile acid and FXR/FGF15 signaling and the effects of chronic histamine on cholestasis. She also has an interest in intestinal inflammation and the gut/liver axis.

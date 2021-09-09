@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- eBoard
+- President
 ---
 
 SACNAS @ IUSM/IUPUI is a student-run chapter of the Society for the Advancement of Chicanos and Native Americans in Science. Currently our group is comprised of PhD students from IUSM and undergraduates from IUPUI. If you are interested in getting involved, contact us at SACNASatIUSM@gmail.com.
