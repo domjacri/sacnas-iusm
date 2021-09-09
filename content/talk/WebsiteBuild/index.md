@@ -21,9 +21,9 @@ math: true
 #- internal-project
 publishDate: "2021-09-09T00:00:00Z"
 slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: The first in-person event of the 2021-2022 Academic year will be a talk on creating your own personal website. Please contact Dom Acri (dacri@iu.edu) for the slides and with any question you have.
 tags: []
-title: Example Talk
+title: Building Your Personal Website with Dom Acri
 url_code: ""
 url_pdf: ""
 url_slides: ""

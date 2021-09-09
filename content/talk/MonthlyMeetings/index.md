@@ -10,20 +10,20 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#links:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 location: Zoom
 math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: An example talk using Academic's Markdown slides feature.
+summary: SACNAS monthly meetings will be held on the last Friday of every month via Zoom. Sign up for the zoom link of IUPUI's The Spot or contact SACNASatIUSM@gmail.com for more details.
 tags: []
-title: Example Talk
+title: SACNAS at IUSM Monthly Meetings (Last Friday 12PM)
 url_code: ""
 url_pdf: ""
 url_slides: ""
