@@ -25,7 +25,7 @@ interests:
 - Bile acids
 - "Latest publication - 10.1002/hep.32038"
 
-#What we study
+What we study:
   courses:
   - course: PhD candidate in ...
     institution: IU School of Medicine
