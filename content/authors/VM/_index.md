@@ -23,7 +23,7 @@ bio: My research interests include intestinal inflammation and the gut/liver axi
 interests:
 - Gut-liver axis
 - Bile acids
-- Latest publication: DOI: 10.1002/hep.32038
+- "Latest publication - 10.1002/hep.32038"
 
 #What we study
   courses:
