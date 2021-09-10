@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role co-President
+role: co-President
 
 # Organizations/Affiliations
 organizations:
