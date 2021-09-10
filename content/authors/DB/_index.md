@@ -20,10 +20,11 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include neurodegeneration, genetics, and DEI programming.
 
-#interests:
-#- Neurodegeneration
-#- QTL Mapping
-#- "[Recent pre-print](https://europepmc.org/article/PPR/PPR279712)"
+interests:
+- Proteomics
+- Mass Spectrometry
+- Diabetes
+- Biochemistry
 
 #What we study:
 #  courses:
@@ -70,4 +71,4 @@ user_groups:
 -
 ---
 
-Dom Baldwin ...
+I was born and raised in Saginaw, MI. From a young age, I’ve always had a passion for biomedical sciences and desired to use biomedical sciences to help the world. With this desire, I received my BS in Biochemistry from the University of Michigan Flint in 2018. Following my undergraduate years, I decided to pursue a PhD in biochemistry and molecular biology at Indiana University School of Medicine where I currently study transcriptional stress using proteomics techniques. By combining my childhood passion with my doctoral training, I hope to focus on type 2 diabetes related research while also advocating for policy reform within diabetes treatment. 
